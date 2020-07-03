@@ -6,4 +6,4 @@ Just simple login using QR Code Scanner with Webcam in PHP modify from  ([https:
 # Demo
 ([Youtube Here](https://www.youtube.com/watch?v=805ZlfOLnU8))
 
-([Visit Here](https://login-qrcode-webcam.herokuapp.com/))
+
